@@ -6,7 +6,7 @@ A small simple prompt manager for LLM prompts.
 ## Usage	
 
 ```python
-from prompt_manager.prompt_manager import get_prompt, render_prompt
+from prompt_manager import get_prompt, render_prompt
 
 prompt = get_prompt("my-prompt.md")
 print(prompt)

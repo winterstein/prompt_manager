@@ -2,3 +2,5 @@
 venv
 prompt_manager/__pycache__
 tests/__pycache__
+.env
+dist
